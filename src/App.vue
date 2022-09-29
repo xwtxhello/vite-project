@@ -7,6 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div>
     <a href="https://vitejs.dev" target="_blank">
+      dasd
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
